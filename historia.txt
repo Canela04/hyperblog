@@ -6,4 +6,6 @@ Caneloso es un perfil secundario para la practica.
 
 Y esta haciendo el curso profesional de git & github
 
+Contribucion open source.
+
 Mañana nos enfocaremos en su vida laboral.
